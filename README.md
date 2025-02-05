@@ -1,1 +1,1 @@
-https://github.com/Firzan-code/Single-Page-CV.git
+https://roadmap.sh/projects/single-page-cv
